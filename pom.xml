@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>kanalysis</name>
-	<description>K Analysis for Stock Trading</description>
+	<description>kanalysis project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
